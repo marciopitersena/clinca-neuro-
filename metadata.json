@@ -1,0 +1,7 @@
+{
+  "name": "ClinicaPro AI",
+  "description": "Uma plataforma completa de gestão para clínicas com agendamento, prontuários eletrônicos e assistente médico inteligente baseado em Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
